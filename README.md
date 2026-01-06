@@ -1,5 +1,5 @@
 # 🚀2025-Ballon d'Or Male Nominees Statistical Analysis Report🚀
-
+![alt text](<Screenshot 2026-01-05 162319-1.png>)
 ## 📈 Overview
 This report presents a statistical analysis of the 2025 Ballon d’Or male nominees based on aggregated performance data. The dashboard evaluates both attacking and defensive contributions using key football performance indicators (KPIs), offering insight into individual impact, efficiency, and overall influence on team performance..
 
